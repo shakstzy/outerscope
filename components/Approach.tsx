@@ -15,7 +15,7 @@ const Approach = () => {
         <Card
           title="Planning & Strategy"
           icon={<AceternityIcon order="Phase 1" />}
-          des="We'll collaborate to map out your product's positioning, unique value proposition,addressable market & key clients. We'll discuss things like a priority partnerships hitlist, offering structure, and execution/GTM strategy."
+          des="We&apos;ll collaborate to map out your product&apos;s positioning, unique value proposition,addressable market & key clients. We&apos;ll discuss things like a priority partnerships hitlist, offering structure, and execution/GTM strategy."
         >
           <CanvasRevealEffect
             animationSpeed={5.1}
