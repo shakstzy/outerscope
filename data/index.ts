@@ -96,12 +96,14 @@ export const testimonials = [
       "Not only did he excel in technical aspects, but Adithya also showcased a strong commitment to teamwork and collaboration. His proactive approach and willingness to go the extra mile greatly benefited beyond just the Retail team and impacted other parts of the business. During our collaboration, Adithya consistently demonstrated a strong work ethic, attention to detail, and a passion for problem-solving. His contributions played a crucial role in the successful implementation of analytics and dashboards for the Retail Partnerships team.",
     name: "Pothana Kambhapati",
     title: "Data/Development Lead @ SpaceX",
+    image: "/po.png",
   },
   {
     quote:
       "[Adithya] made formative changes improving the internal workflows and resources that still remain active today. I am glad to have met Adi in this capacity and attest to his character, positive get-it-done attitude, and work ethic that will enable him wherever his pursuits take him.",
     name: "Elan Okonsky",
     title: "Starlink @ SpaceX",
+    image: "/elan.png",
   },
 ];
 
@@ -148,14 +150,12 @@ export const workExperience = [
 export const socialMedia = [
   {
     id: 1,
-    img: "/three.svg",
+    img: "/twit.svg",
+    link: "https://x.com/outerscopexyz",
   },
   {
     id: 2,
-    img: "/twit.svg",
-  },
-  {
-    id: 3,
     img: "/link.svg",
+    link: "https://www.linkedin.com/company/outerscope/",
   },
 ];
