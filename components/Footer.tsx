@@ -20,8 +20,7 @@ const Footer = () => {
           Ready to scale <span className="text-purple">your</span> ecosystem and growth?
         </h1>
         <p className="text-white-200 md:mt-10 my-5 text-center">
-          Reach out to us today and let's discuss how we can help you
-          achieve your goals.
+          Reach out to us today and let's discuss how we can help you achieve your goals.
         </p>
         <a href="https://t.me/shakstzy">
           <MagicButton
