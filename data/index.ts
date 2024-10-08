@@ -114,6 +114,12 @@ export const companies = [
     img: "/layer.svg",
     nameImg: "/layerName.svg",
   },
+    {
+    id: 1,
+    name: "octane",
+    img: "/octane.svg",
+    nameImg: "/octaneName.svg",
+  },
 ];
 
 export const workExperience = [
